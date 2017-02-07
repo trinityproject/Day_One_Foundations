@@ -1,0 +1,19 @@
+.largerText {
+font-size: 100px;
+}
+.fuckall {
+font-size: 20px;
+font-family: Helvetica;
+color: hsl(300%,100%,100%);
+font-display: block;
+}
+.inline {
+  display:inline;
+  element { color: hsl(0, 100%, 50%); }
+}
+.removeUnderline {
+  text-decoration: none;
+}
+.body {
+  background-color: hsl(188,78,88);
+}
