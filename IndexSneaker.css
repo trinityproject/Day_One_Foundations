@@ -1,7 +1,7 @@
 IndexSneaker.html
 .logo {
-  height: 20px
-  width: 20px
+  height: 50%;
+  position:fixed;
 }
 .whiteText {
 font-size: 10px;
@@ -12,8 +12,29 @@ font-display: block;
 .orange-background {
   background-color: red;
 }
+.pinkHeader {
+  background-color: pink}
 .Title {
 font-size: 20px;
 font-family: Helvetica;
 color: white;
+}
+.Title2 {
+  font-size: 15px;
+  float: center;
+  font-family: Helvetica;
+  color: black;
+  padding: 5px, 5px, 5px, 5px;
+}
+.background-color {hsl(180%, 24%, 12%);
+}
+.navBar {
+  background-color: whiteText
+  border-style: none;
+  display: inline-block;
+  float: left;
+  margin: 10px, 0, 0, 0;
+  padding: 10px 0 10px 0;
+  width 200px
+  line-height: 20px;
 }
