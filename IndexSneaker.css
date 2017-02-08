@@ -10,7 +10,7 @@ color: white;
 font-display: block;
 }
 .orange-background {
-  background-color: red;
+  background-image: "images/HomeworkBackground.png";
 }
 .pinkHeader {
   background-color: pink}
@@ -26,15 +26,16 @@ color: white;
   color: black;
   padding: 5px, 5px, 5px, 5px;
 }
-.background-color {hsl(180%, 24%, 12%);
+.background-image {
+  background-image:"images/HomeworkBackground.png";
 }
 .navBar {
-  background-color: whiteText
+  background-image:"images/HomeworkBackground.png";
   border-style: none;
   display: inline-block;
   float: left;
   margin: 10px, 0, 0, 0;
-  padding: 10px 0 10px 0;
+  padding: 10px 10px 10px 10px;
   width 200px
   line-height: 20px;
 }
